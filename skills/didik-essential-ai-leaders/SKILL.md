@@ -1,5 +1,5 @@
 ---
-name: ddk-essential-ai-leaders
+name: didik-essential-ai-leaders
 description: Gunakan saat pengguna sebagai pemimpin ingin memahami, memilih, atau memakai AI dengan bijak di tim atau organisasi, termasuk soal risiko dan kepercayaan (AI for Leaders). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

@@ -1,5 +1,5 @@
 ---
-name: ddk-essential-strategic-leadership
+name: didik-essential-strategic-leadership
 description: Gunakan saat pengguna membahas strategi, arah organisasi, OKR, prioritas, atau eksekusi strategi di tim atau unit (Strategic Leadership & Execution). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

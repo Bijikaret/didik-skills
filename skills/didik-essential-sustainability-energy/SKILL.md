@@ -1,5 +1,5 @@
 ---
-name: ddk-essential-sustainability-energy
+name: didik-essential-sustainability-energy
 description: Gunakan saat pengguna ingin memahami keberlanjutan dan transisi energi bagi organisasinya, memilih prioritas, atau menyiapkan rencana awal yang bisa diukur (Sustainability & Energy Transition). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

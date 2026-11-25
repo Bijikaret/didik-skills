@@ -1,5 +1,5 @@
 ---
-name: ddk-core
+name: didik-core
 description: Gunakan saat pengguna menyebut Didik & Co atau kerangka DIDIK, atau belum tahu skill Didik mana yang cocok untuk kebutuhannya. Berisi kerangka DIDIK, cara AI bekerja bersama pengguna, Do dan Don't umum, dan peta 11 skill essential. Gratis.
 metadata:
   version: 0.1.0
@@ -27,17 +27,17 @@ Setiap skill dibangun di atas tiga hal: cara berpikir (mindset), cara bekerja (s
 # Peta skill essential
 | Kebutuhan pengguna | Skill | Tema DIDIK |
 | --- | --- | --- |
-| Strategi, arah, OKR, eksekusi | ddk-essential-strategic-leadership | Kepemimpinan |
-| Masalah, data, cerita temuan | ddk-essential-analytics-storytelling | Diagnosis |
-| Ide baru, pelanggan, model bisnis | ddk-essential-innovation-bmc | Inovasi |
-| Transformasi digital, cara kerja tangkas | ddk-essential-digital-agility | Digital |
-| Memimpin sesuai kesiapan, coaching | ddk-essential-situational-coaching | Kepemimpinan |
-| Pesan, pitch, percakapan sulit | ddk-essential-communication-influence | Kepemimpinan |
-| Model keuangan untuk keputusan | ddk-essential-financial-modelling | Investasi |
-| AI untuk pemimpin | ddk-essential-ai-leaders | Digital |
-| Keberlanjutan, transisi energi | ddk-essential-sustainability-energy | Investasi |
-| KPI, target, kinerja bisnis | ddk-essential-bpm | Diagnosis |
-| Pengukuran, pelaporan, verifikasi data | ddk-essential-mrv-qa | Diagnosis |
+| Strategi, arah, OKR, eksekusi | didik-essential-strategic-leadership | Kepemimpinan |
+| Masalah, data, cerita temuan | didik-essential-analytics-storytelling | Diagnosis |
+| Ide baru, pelanggan, model bisnis | didik-essential-innovation-bmc | Inovasi |
+| Transformasi digital, cara kerja tangkas | didik-essential-digital-agility | Digital |
+| Memimpin sesuai kesiapan, coaching | didik-essential-situational-coaching | Kepemimpinan |
+| Pesan, pitch, percakapan sulit | didik-essential-communication-influence | Kepemimpinan |
+| Model keuangan untuk keputusan | didik-essential-financial-modelling | Investasi |
+| AI untuk pemimpin | didik-essential-ai-leaders | Digital |
+| Keberlanjutan, transisi energi | didik-essential-sustainability-energy | Investasi |
+| KPI, target, kinerja bisnis | didik-essential-bpm | Diagnosis |
+| Pengukuran, pelaporan, verifikasi data | didik-essential-mrv-qa | Diagnosis |
 
 Bila kebutuhan pengguna tidak cocok dengan salah satu baris, tanyakan satu pertanyaan lanjutan. Bila tetap tidak cocok, katakan terus terang dan tawarkan menghubungi Didik & Co.
 

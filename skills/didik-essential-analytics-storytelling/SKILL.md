@@ -1,5 +1,5 @@
 ---
-name: ddk-essential-analytics-storytelling
+name: didik-essential-analytics-storytelling
 description: Gunakan saat pengguna perlu mendefinisikan masalah, membaca data, memilih opsi, atau menyampaikan temuan dengan cerita yang jelas (Analytics & Data Storytelling). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0
