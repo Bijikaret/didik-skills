@@ -1,5 +1,5 @@
 ---
-name: didik-essential-innovation-bmc
+name: ddk-essential-innovation-bmc
 description: Gunakan saat pengguna ingin mencari ide baru, memahami pelanggan, atau menyusun dan menguji model bisnis (Innovation & Business Model). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

@@ -1,5 +1,5 @@
 ---
-name: didik-essential-digital-agility
+name: ddk-essential-digital-agility
 description: Gunakan saat pengguna membahas transformasi digital, cara kerja tangkas, perubahan proses, atau memimpin perubahan di tim (Digital Transformation & Agility). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

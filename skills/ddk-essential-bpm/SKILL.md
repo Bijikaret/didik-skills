@@ -1,5 +1,5 @@
 ---
-name: didik-essential-bpm
+name: ddk-essential-bpm
 description: Gunakan saat pengguna membahas KPI, target, dasbor, atau evaluasi kinerja bisnis, atau ingin menyusun pengelolaan kinerja sederhana untuk satu tim, unit, atau program (Business Performance Management). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

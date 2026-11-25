@@ -1,5 +1,5 @@
 ---
-name: didik-essential-financial-modelling
+name: ddk-essential-financial-modelling
 description: Gunakan saat pengguna perlu memahami atau menyusun model keuangan sederhana untuk mendukung keputusan, misalnya proyeksi, skenario, atau kelayakan awal (Financial Modelling for Decision Makers). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

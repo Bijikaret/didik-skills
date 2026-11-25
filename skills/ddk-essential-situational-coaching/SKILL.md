@@ -1,5 +1,5 @@
 ---
-name: didik-essential-situational-coaching
+name: ddk-essential-situational-coaching
 description: Gunakan saat pengguna ingin menyesuaikan gaya memimpin dengan kesiapan anggota tim, atau melatih (coaching) anggota tim dengan pertanyaan, bukan perintah (Situational Leadership & Coaching). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

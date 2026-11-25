@@ -1,5 +1,5 @@
 ---
-name: didik-essential-mrv-qa
+name: ddk-essential-mrv-qa
 description: Gunakan saat pengguna perlu memahami alur pengukuran, pelaporan, dan verifikasi (MRV) serta penjaminan kuantitas data, misalnya energi atau emisi, di organisasinya (MRV & Quantity Assurance). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

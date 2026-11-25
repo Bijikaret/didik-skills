@@ -1,5 +1,5 @@
 ---
-name: didik-essential-communication-influence
+name: ddk-essential-communication-influence
 description: Gunakan saat pengguna ingin menyiapkan pesan, pitch, presentasi, atau percakapan sulit agar dipahami dan diterima audiens (Communication & Influence). Level essential, gratis. AI bertanya tentang situasi pengguna lebih dulu, menanamkan cara berpikirnya, lalu memandu satu putaran praktik dan menghasilkan lembar satu halaman.
 metadata:
   version: 0.1.0

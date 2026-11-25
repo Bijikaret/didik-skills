@@ -8,7 +8,7 @@ Gratis, terbuka, dan bisa dicoba dalam dua menit di Claude, ChatGPT, dan AI lain
 
 ## Coba sekarang
 
-1. Pasang `didik-core` dan satu skill yang Anda butuhkan (cara pasang di bawah).
+1. Pasang `ddk-core` dan satu skill yang Anda butuhkan (cara pasang di bawah).
 2. Tulis salah satu kalimat ini ke AI Anda:
    - "Bantu saya menyusun KPI untuk tim saya."
    - "Saya perlu menyiapkan pitch tiga menit untuk atasan."
@@ -28,22 +28,22 @@ AI biasa cenderung langsung menjawab dan menyodorkan daftar panjang. Skill Didik
 
 | Kebutuhan | Skill |
 | --- | --- |
-| Pintu masuk dan peta semua skill | `didik-core` |
-| Strategi, arah, OKR, eksekusi | `didik-essential-strategic-leadership` |
-| Masalah, data, cerita temuan | `didik-essential-analytics-storytelling` |
-| Ide baru, pelanggan, model bisnis | `didik-essential-innovation-bmc` |
-| Transformasi digital, cara kerja tangkas | `didik-essential-digital-agility` |
-| Memimpin sesuai kesiapan, coaching | `didik-essential-situational-coaching` |
-| Pesan, pitch, percakapan sulit | `didik-essential-communication-influence` |
-| Model keuangan untuk keputusan | `didik-essential-financial-modelling` |
-| AI untuk pemimpin | `didik-essential-ai-leaders` |
-| Keberlanjutan, transisi energi | `didik-essential-sustainability-energy` |
-| KPI, target, kinerja bisnis | `didik-essential-bpm` |
-| Pengukuran, pelaporan, verifikasi data | `didik-essential-mrv-qa` |
+| Pintu masuk dan peta semua skill | `ddk-core` |
+| Strategi, arah, OKR, eksekusi | `ddk-essential-strategic-leadership` |
+| Masalah, data, cerita temuan | `ddk-essential-analytics-storytelling` |
+| Ide baru, pelanggan, model bisnis | `ddk-essential-innovation-bmc` |
+| Transformasi digital, cara kerja tangkas | `ddk-essential-digital-agility` |
+| Memimpin sesuai kesiapan, coaching | `ddk-essential-situational-coaching` |
+| Pesan, pitch, percakapan sulit | `ddk-essential-communication-influence` |
+| Model keuangan untuk keputusan | `ddk-essential-financial-modelling` |
+| AI untuk pemimpin | `ddk-essential-ai-leaders` |
+| Keberlanjutan, transisi energi | `ddk-essential-sustainability-energy` |
+| KPI, target, kinerja bisnis | `ddk-essential-bpm` |
+| Pengukuran, pelaporan, verifikasi data | `ddk-essential-mrv-qa` |
 
 Kerangka DIDIK: Diagnosis, Inovasi, Digital, Investasi, Kepemimpinan.
 
-Tidak yakin mulai dari mana? Pasang `didik-core` dan ceritakan kebutuhan Anda; AI akan mengarahkan ke skill yang cocok.
+Tidak yakin mulai dari mana? Pasang `ddk-core` dan ceritakan kebutuhan Anda; AI akan mengarahkan ke skill yang cocok.
 
 ## Cara memakai
 
@@ -56,13 +56,13 @@ Salin folder skill yang Anda butuhkan dari `skills/`. Setiap skill berdiri sendi
 | Codex dan AI lain berstandar Agent Skills | Taruh di `~/.agents/skills/` atau `~/.codex/skills/`; jalur persis berbeda tiap alat, cek dokumentasi alat Anda. |
 | ChatGPT | Unggah lewat menu Skills bila akun Anda memilikinya. Fitur ini baru dan menunya dapat berubah. |
 
-Dengan perintah `npx skills add [owner]/didik-skills`, alat komunitas dapat memasang skill ke banyak AI sekaligus.
+Dengan perintah `npx skills add Bijikaret/didik-skills`, alat komunitas dapat memasang skill ke banyak AI sekaligus.
 
 Setelah terpasang, tulis kebutuhan Anda secara biasa, misalnya: "Bantu saya menyusun KPI untuk tim saya." AI akan memakai skill yang cocok.
 
 ## Contoh singkat
 
-Anda menulis: "Bantu saya bikin KPI untuk tim penjualan, secepatnya." Tanpa skill, AI umumnya langsung memberi daftar sembilan KPI lengkap dengan bobot dan target. Dengan `didik-essential-bpm`, AI menanyakan dulu siapa yang memakai angkanya dan keputusan apa yang ingin dibantu, lalu memandu Anda sampai lembar satu halaman.
+Anda menulis: "Bantu saya bikin KPI untuk tim penjualan, secepatnya." Tanpa skill, AI umumnya langsung memberi daftar sembilan KPI lengkap dengan bobot dan target. Dengan `ddk-essential-bpm`, AI menanyakan dulu siapa yang memakai angkanya dan keputusan apa yang ingin dibantu, lalu memandu Anda sampai lembar satu halaman.
 
 ## Batas
 
